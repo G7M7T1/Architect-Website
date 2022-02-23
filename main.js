@@ -1,2 +1,1 @@
-import './style.css'
-import $ from "jquery";
+import './style.scss'

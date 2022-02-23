@@ -1,5 +1,5 @@
 {
-  "name": "architect-website",
+  "name": "architect",
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -8,13 +8,9 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.2",
-    "postcss": "^8.4.6",
-    "tailwindcss": "^3.0.23",
     "vite": "^2.8.0"
   },
   "dependencies": {
-    "jquery": "^3.6.0",
-    "tilt.js": "^1.2.1"
+    "sass": "^1.49.8"
   }
 }
